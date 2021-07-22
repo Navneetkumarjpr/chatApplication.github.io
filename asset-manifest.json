@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/chatApplication.github.io/static/css/main.ad33ac19.chunk.css",
+    "main.js": "/chatApplication.github.io/static/js/main.d6e2bd87.chunk.js",
+    "main.js.map": "/chatApplication.github.io/static/js/main.d6e2bd87.chunk.js.map",
+    "runtime-main.js": "/chatApplication.github.io/static/js/runtime-main.13d9f9e8.js",
+    "runtime-main.js.map": "/chatApplication.github.io/static/js/runtime-main.13d9f9e8.js.map",
+    "static/js/2.40ee4798.chunk.js": "/chatApplication.github.io/static/js/2.40ee4798.chunk.js",
+    "static/js/2.40ee4798.chunk.js.map": "/chatApplication.github.io/static/js/2.40ee4798.chunk.js.map",
+    "static/js/3.92ef65de.chunk.js": "/chatApplication.github.io/static/js/3.92ef65de.chunk.js",
+    "static/js/3.92ef65de.chunk.js.map": "/chatApplication.github.io/static/js/3.92ef65de.chunk.js.map",
+    "index.html": "/chatApplication.github.io/index.html",
+    "static/css/main.ad33ac19.chunk.css.map": "/chatApplication.github.io/static/css/main.ad33ac19.chunk.css.map",
+    "static/js/2.40ee4798.chunk.js.LICENSE.txt": "/chatApplication.github.io/static/js/2.40ee4798.chunk.js.LICENSE.txt",
+    "static/media/men1.b35b4a8a.png": "/chatApplication.github.io/static/media/men1.b35b4a8a.png",
+    "static/media/profile2.1c384b7b.png": "/chatApplication.github.io/static/media/profile2.1c384b7b.png",
+    "static/media/profile3.5d0d6855.png": "/chatApplication.github.io/static/media/profile3.5d0d6855.png",
+    "static/media/profile4.02b7b938.png": "/chatApplication.github.io/static/media/profile4.02b7b938.png",
+    "static/media/profilepic.9fa80322.png": "/chatApplication.github.io/static/media/profilepic.9fa80322.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13d9f9e8.js",
+    "static/js/2.40ee4798.chunk.js",
+    "static/css/main.ad33ac19.chunk.css",
+    "static/js/main.d6e2bd87.chunk.js"
+  ]
+}
